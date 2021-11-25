@@ -39,9 +39,8 @@
 ### lerna + yarn 
 
 分支: lerna-yarn
+参考: 参考 [阿里系的搭建项目 designable](https://github.com/alibaba/designable)的工程架构
 描述: 此方案虽土, 不时髦, 且官网也不更新了, 但好多开源项目都用的这种方式
-
-### rush + yarn
 
 
 
